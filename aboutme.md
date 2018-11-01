@@ -4,14 +4,23 @@ title: About me
 subtitle: How awesome am I?
 ---
 
-My name is WooJin Kim
+My name is WooJin Kim. 
+
+### My Education
+
+- Ban-Po Elementary School (Seoul, South Korea)
+- Surrey Christian Middle School (Vancouver, Canada)
+- Fraser Valley Christian High School (Vancouver, Canada)
+- Fleetwood Park Secondary School (Vancouver, Canada)
+- Washington State University (Washington State, USA)
 
 ### My Interest
 
-- I'm extremely loyal to my family
+- 111
 
 What else do you need?
 
-### My History
+### My History (내 역사)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I was born in 1987 in a small(?) town called Ban-Po of Seoul, South Korea.
+저는 1987년에 서울 반포동에서 태어났습니다.
