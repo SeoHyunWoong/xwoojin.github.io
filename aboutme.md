@@ -37,9 +37,9 @@ came back to South Korea to serve at Korean Army; flew back to Washington State,
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-There are million things that I'm interested in, but let me just list three from the top (Excluding computers and programming)<br>
+There are million things that I'm interested in, but let me just list three from the top (excluding computers and programming)
 <p class="about-text">
-<strong>Cars</strong>
+<strong>Cars</strong><br>
 I love driving cars in general.<br>
 I love it enough that I made multiple roadtrips between Seattle and New York / Seattle and Los Angeles.<br>
 I currently drive Audi A7 55TDI (2016).<br>
@@ -49,7 +49,11 @@ It is just f'ing awesome. No doubt.</p>
 <strong>Sports</strong><br>
 I like watching European football.<br>
 I cheer for Arsenal and Real Madrid.<br>
-Sadly..... they both aren't doing great this season..... =(</p>
+Sadly..... they both aren't doing great this season..... =(<br>
+I also love skiing! I like to think that I'm ALMOST A pro skier.. ;)<br>
+I skied since I was 4 years old and I absolutely love everything about skiing.<br>
+Best mountain that I skied was Whistler (Vancouver, Canada)
+</p>
 
 <p class="about-text">
 <strong>Traveling</strong><br>
@@ -58,8 +62,8 @@ Whenever I have time, I try to make small/big trips in Korea or overseas.<br>
 Aside from the obvious plus' for traveling, it gives me different perspectives and thoughts that weren't exactly in place for me.<br>
 Different views and perspectives really endorse me to catch things that I weren't aware of in many ways.
 </p>
+<p class="about-text">
 Oh! I shouldn't have to mention that GIRLS are the obvious HIGHEST INTEREST OF ALL TIMES. PEROID. DUH? ;)
-
 </p>
 
 <p class="about-text">
