@@ -3,7 +3,7 @@ layout: post
 title: C# Ping
 subtitle: Pinging a Network Directory
 image: /img/CSharp.png
-tags: [C#]
+tags: [C#] [Ping]
 ---
 
 내가 느끼기에 C++/C# 같은 언어로 프로그램을 짜서 네트워크 폴더에 접근 하는 것은 고려해야 될 것들을 엄청 많이 늘려준다.
