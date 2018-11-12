@@ -16,11 +16,19 @@ My name is WooJin Kim.
 
 ### My Interest
 
-- 111
+- Computer
+- Techs... Who isn't?
+- Algorithms
+- Programming (C / C++ / C# / Python)
+- Cars
+I currently drive Audi A7 55TDI. 
+It is just fing awesome. No doubt.
+- Puzzles
+I love 1000 piece puzzle. 2000 or more is just too challenging for me... 
+Maybe I'm  not as smart as I thought? lol
 
 What else do you need?
 
 ### My History
 
 I was born in 1987 in a small(?) town called Ban-Po of Seoul, South Korea.
-저는 1987년에 서울 반포동에서 태어났습니다.
