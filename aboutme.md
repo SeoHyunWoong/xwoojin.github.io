@@ -44,7 +44,7 @@ I love it enough that I made multiple roadtrips between Seattle and New York / S
 I currently drive Audi A7 55TDI (2016).<br>
 It is just fing awesome. No doubt.<br><br>
 
--  Sports
+-  Sports<br>
 I like watching European football.<br>
 I cheer for Arsenal and Real Madrid.<br>
 Sadly..... they both aren't doing great this season..... =(<br><br>
