@@ -1,7 +1,9 @@
 ---
 layout: page
-title: About me
+title: About WooJin Kim
+meta-title: About me
 subtitle: How awesome am I?
+
 ---
 
 <div id="aboutme-section">
