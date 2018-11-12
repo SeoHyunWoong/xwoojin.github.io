@@ -12,7 +12,7 @@ I am an avid achiever and developer from Seoul, South Korea.</center>
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-  Currently an <strong>research engineer</strong> at Wellbia.com. Previously worked as an intern at Samsung Logistics and <strong>web developer</strong> at Washington State University (<a target="_blank" href="http://psychology.wsu.edu/">WSU Psychology</a>)
+  Currently an <strong>research engineer</strong> at Wellbia.com since 2015. Previously worked as an intern at Samsung Logistics and <strong>web developer</strong> at Washington State University (<a target="_blank" href="http://psychology.wsu.edu/">WSU Psychology</a>)
 </p>
 
 <p class="about-text">
@@ -37,13 +37,16 @@ came back to South Korea to serve at Korean Army; flew back to Washington State,
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-There are million things that I'm interested in, but let me just list three from the top aside from computers and programming.<br>
-1. Cars
+There are million things that I'm interested in, but let me just list three from the top (Excluding computers and programming)<br>
+* Cars
 Audi A7
+
 * Video Games
 League of Legends
-- Sports
+
+* Sports
 Soccer, Basketball, Ski
+
 <br><br>
 Oh! I shouldn't have to mention that GIRLS are the obvious HIGHEST INTEREST OF ALL TIMES. PEROID. DUH? ;)
 
