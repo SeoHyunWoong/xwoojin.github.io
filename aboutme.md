@@ -28,4 +28,12 @@ I love creating helpful and useful software tools that automates/shortens variou
 My best practices include but limited to C/C++/C#/Python but I'm open and able to adapt to any other languages!
 </p>
 
+<p class="about-text">
+<span class="fa fa-plane about-icon"></span>
+Places I've travled: Canada, China, England, France, Guam (USA.. I know... but I like to separate this ^^), HongKong, Japan, Korea (South), Macao, Tibet, USA
+</p>
+
+
+
+
 </div>
