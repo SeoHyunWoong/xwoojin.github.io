@@ -30,9 +30,23 @@ My best practices include but limited to C/C++/C#/Python but I'm open and able t
 
 <p class="about-text">
 <span class="fa fa-globe about-icon"></span>
-I don't know if this is a right phrase... but I'm a very global person..? ;(<br>
+I don't know if I got this phrase right... but.. I'm a very global person..? ;(<br>
 I was born in Seoul, South Korea; went abroad to Vancouver, Canada for my K-12 education; went over to Shenzhen, China/Hong Kong for my internship at Samsung Logistics; 
 came back to South Korea to serve at Korean Army; flew back to Washington State, USA for my Bachelors; came back to Seoul, South Korea to work at Wellbia.com in 2015
+</p>
+
+<p class="about-text">
+<span class="fa fa-heart about-icon"></span>
+There are million things that I'm interested in, but let me just list three from the top aside from computers and programming.<br>
+1. Cars
+Audi A7
+* Video Games
+League of Legends
+- Sports
+Soccer, Basketball, Ski
+<br><br>
+Oh! I shouldn't have to mention that GIRLS are the obvious HIGHEST INTEREST OF ALL TIMES. PEROID. DUH? ;)
+
 </p>
 
 <p class="about-text">
