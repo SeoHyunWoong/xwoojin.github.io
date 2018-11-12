@@ -31,13 +31,13 @@ My best practices include but limited to C/C++/C#/Python but I'm open and able t
 <p class="about-text">
 <span class="fa fa-globe about-icon"></span>
 I don't know if this is a right phrase... but I'm a very global person..? ;(<br>
-I was born in Seoul, South Korea; went abroad to Vancouver, Canada for my K-12 education; went over to Shenzhen, China/HongKong for my internship at Samsung Logistics; 
+I was born in Seoul, South Korea; went abroad to Vancouver, Canada for my K-12 education; went over to Shenzhen, China/Hong Kong for my internship at Samsung Logistics; 
 came back to South Korea to serve at Korean Army; flew back to Washington State, USA for my Bachelors; came back to Seoul, South Korea to work at Wellbia.com in 2015
 </p>
 
 <p class="about-text">
 <span class="fa fa-plane about-icon"></span>
-Places I've travled: Canada, China, England, France, Guam, HongKong, Japan, Korea (South), Macao, Tibet, USA
+Places I've travled: Canada, China, England, France, Guam, Hong Kong, Japan, Korea (South), Macao, Tibet, USA
 </p>
 
 </div>
