@@ -20,7 +20,7 @@ My name is WooJin Kim.
 
 What else do you need?
 
-### My History (³» ¿ª»ç)
+### My History
 
 I was born in 1987 in a small(?) town called Ban-Po of Seoul, South Korea.
-Àú´Â 1987³â¿¡ ¼­¿ï ¹İÆ÷µ¿¿¡¼­ ÅÂ¾î³µ½À´Ï´Ù.
+ì €ëŠ” 1987ë…„ì— ì„œìš¸ ë°˜í¬ë™ì—ì„œ íƒœì–´ë‚¬ìŠµë‹ˆë‹¤.
