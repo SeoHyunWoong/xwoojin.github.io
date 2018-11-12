@@ -6,7 +6,7 @@ subtitle: How awesome am I?
 
 <div id="aboutme-section">
 
-Hello, My name is <strong>WooJin Kim</strong>
+Hello, My name is <strong>WooJin Kim</strong><br>
 I am an avid achiever and developer from Seoul, South Korea.
 
 <p class="about-text">
