@@ -23,8 +23,8 @@ I've also attended Surrey Christian Middle School in British Columbia, Canada an
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I am a programmer, software developer, and a creative thinker. <br>
-I love creating useful and helpful software tools that shortens/automates various tasks.<br>
+I am a programmer, software developer, and a creative thinker.<br>
+I love creating helpful and useful software tools that automates/shortens various tasks.
 My best practices include but limited to C/C++/C#/Python but I'm open and able to adapt to any other languages!
 </p>
 
