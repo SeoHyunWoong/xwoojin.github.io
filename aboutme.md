@@ -38,11 +38,22 @@ came back to South Korea to serve at Korean Army; flew back to Washington State,
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
 There are million things that I'm interested in, but let me just list three from the top (Excluding computers and programming)<br>
+- Cars<br>
+I love driving cars in general.<br>
+I love it enough that I made multiple roadtrips between Seattle and New York / Seattle and Los Angeles.<br>
+I currently drive Audi A7 55TDI (2016).<br>
+It is just fing awesome. No doubt.<br><br>
 
-* Cars
-* Video Games
-* Sports
+-  Sports
+I like watching European football.<br>
+I cheer for Arsenal and Real Madrid.<br>
+Sadly..... they both aren't doing great this season..... =(<br><br>
 
+- Traveling<br>
+I love traveling.<br>
+Whenever I have time, I try to make small/big trips in Korea or overseas.<br>
+Aside from the obvious plus' for traveling, it gives me different perspectives and thoughts that weren't exactly in place for me.<br>
+Different views and perspectives really endorse me to catch things that I weren't aware of in many ways.
 <br><br>
 Oh! I shouldn't have to mention that GIRLS are the obvious HIGHEST INTEREST OF ALL TIMES. PEROID. DUH? ;)
 
