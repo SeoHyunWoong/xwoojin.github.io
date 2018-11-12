@@ -42,7 +42,7 @@ There are million things that I'm interested in, but let me just list three from
 I love driving cars in general.<br>
 I love it enough that I made multiple roadtrips between Seattle and New York / Seattle and Los Angeles.<br>
 I currently drive Audi A7 55TDI (2016).<br>
-It is just fing awesome. No doubt.<br><br>
+It is just f'ing awesome. No doubt.<br><br>
 
 -  Sports<br>
 I like watching European football.<br>
