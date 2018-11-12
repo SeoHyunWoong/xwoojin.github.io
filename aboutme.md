@@ -38,14 +38,10 @@ came back to South Korea to serve at Korean Army; flew back to Washington State,
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
 There are million things that I'm interested in, but let me just list three from the top (Excluding computers and programming)<br>
+
 * Cars
-Audi A7
-
 * Video Games
-League of Legends
-
 * Sports
-Soccer, Basketball, Ski
 
 <br><br>
 Oh! I shouldn't have to mention that GIRLS are the obvious HIGHEST INTEREST OF ALL TIMES. PEROID. DUH? ;)
