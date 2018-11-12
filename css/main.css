@@ -759,6 +759,27 @@ td.gutter {
   background-color: rgba(0, 0, 0, 0.2);
 }
 
+/* --- Custom: About me section --- */
+#aboutme-section {
+  font-size: 19px;
+}
+
+.about-text {
+  position: relative;
+  margin-left: 30px;
+}
+
+.about-icon {
+  font-size: 24px;
+  position: absolute;
+  left: -40px;
+  margin-top: 5px;
+}
+
+#aboutme-section p:last-child {
+  margin-bottom: 0;
+}
+
 /* Tags page */
 
 .tag-btn {
