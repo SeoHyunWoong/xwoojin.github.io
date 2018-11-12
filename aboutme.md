@@ -70,5 +70,3 @@ Oh! I shouldn't have to mention that GIRLS are the obvious HIGHEST INTEREST OF A
 <span class="fa fa-plane about-icon"></span>
 Places I've travled: Canada, China, England, France, Guam, Hong Kong, Japan, Korea (South), Macao, Tibet, USA
 </p>
-
-</div>
